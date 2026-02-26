@@ -19,7 +19,6 @@ Indie iOS developer from Valencia, Spain.
 **🙂 Unawkward** — social rehearsal tools  
 🌐 [Website](https://framara.net/projects/Unawkward)
 
-## 🧠 Editor — Decide With Clarity
-Minimal AI thinking tool — less noise, more clarity.
+**🧠 Editor — Decide With Clarity
 🏆 RevenueCat Shipyard 2026 — Creator Brief Winner  
 💰 $20,000 Prize  

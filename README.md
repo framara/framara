@@ -2,8 +2,6 @@
 
 Indie iOS developer from Valencia, Spain.  
 
----
-
 ## 🚀 Apps
 
 **💬 ToMe** — personal capture tool  
@@ -21,11 +19,7 @@ Indie iOS developer from Valencia, Spain.
 **🙂 Unawkward** — social rehearsal tools  
 🌐 [Website](https://framara.net/projects/Unawkward)
 
----
-
 ## 🧠 Editor — Decide With Clarity
 Minimal AI thinking tool — less noise, more clarity.
 🏆 RevenueCat Shipyard 2026 — Creator Brief Winner  
 💰 $20,000 Prize  
-
-🔗 https://framara.net

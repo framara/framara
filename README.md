@@ -1,23 +1,17 @@
 ## 👋 Hi, I'm Francisco
-
-Indie iOS developer from Valencia, Spain.  
+Backend developer 9 to 5. Indie developer in my free time.
 
 ## 🚀 Apps
 
-**💬 ToMe** — personal capture tool  
-📱 [App Store](https://apps.apple.com/us/app/tome-save-now-find-later/id6755589008)
+**💬 [ToMe](https://apps.apple.com/us/app/tome-save-now-find-later/id6755589008)** — personal capture tool  
 
-**📚 ToRead** — minimalist reading timer  
-📱 [App Store](https://apps.apple.com/us/app/toread-reading-timer/id6757129946)
+**📚 [ToRead](https://apps.apple.com/us/app/toread-reading-timer/id6757129946)** — minimalist reading timer  
 
-**📖 YourStory** — AI interactive stories for kids  
-📱 [App Store](https://apps.apple.com/us/app/tucuento-interactive-stories/id6757276891)
+**📖 [YourStory](https://apps.apple.com/us/app/tucuento-interactive-stories/id6757276891)** — AI interactive stories for kids  
 
-**⏱ Overdue** — time-aware task management  
-📱 [App Store](https://apps.apple.com/us/app/overdue-another-to-do-app/id6757875232)
+**⏱ [Overdue](https://apps.apple.com/us/app/overdue-another-to-do-app/id6757875232)** — time-aware task management  
 
-**🙂 Unawkward** — social rehearsal tools  
-🌐 [Website](https://framara.net/projects/Unawkward)
+**🙂 [Unawkward](https://unawkward.app)** — social rehearsal tools  
 
 **🧠 Editor** — Decide With Clarity  
 🏆 RevenueCat Shipyard 2026 — Creator Brief Winner  

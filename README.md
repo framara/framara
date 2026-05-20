@@ -13,6 +13,6 @@ Backend developer 9 to 5. Indie developer in my free time.
 
 **🙂 [Unawkward](https://unawkward.app)** — social rehearsal tools  
 
-**🧠 Editor** — Decide With Clarity  
+**🧠 [Editor](https://editor.framara.net)** — Decide With Clarity  
 🏆 RevenueCat Shipyard 2026 — Creator Brief Winner  
 💰 $20,000 Prize  
